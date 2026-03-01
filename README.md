@@ -1,4 +1,4 @@
-Hi, I’m Balikisu Oniyide
+Hi, I’m Balikisu Ajoke Oniyide
 
 Data Analyst | Business Intelligence | Power BI | SQL | Excel | Python | R
 
