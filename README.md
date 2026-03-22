@@ -1,74 +1,129 @@
-Hi, I’m Balikisu Ajoke Oniyide
+<!-- Profile README for balqis91 -->
 
-Data Analyst | Business Intelligence | Power BI | SQL | Excel | Python | R
+<h1 align="center">Hi, I'm Balikisu Ajoke Oniyide 👋</h1>
+<h3 align="center">R&E Systems and Data Officer | Data Analyst | BI Developer | Power BI Dashboard Specialist</h3>
 
-I am a data professional with experience in healthcare analytics, supply chain reporting, and business intelligence development. I specialise in transforming complex datasets into structured insights that support decision-making and performance improvement.
+<p align="center">
+  Turning data into clear, actionable insights through analysis, reporting, and dashboard design.
+</p>
 
-# What I Do:
+---
 
-- Data cleaning, validation & reconciliation
+<div align="center">
+  <a href="https://github.com/balqis91">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/balikisu-a-oniyide">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
 
-- SQL-based data extraction & transformation
+---
 
-- Power BI dashboard development (DAX, data modelling)
+## About Me
 
-- Excel automation & KPI reporting
+I am a data professional with experience in data analysis, business intelligence, dashboard development, and database management.  
+I enjoy working with real-world datasets, identifying trends, and building visual reports that support evidence-based decision-making.
 
-- Statistical analysis using R & SPSS
+- 📊 Skilled in data analysis, dashboard creation, and reporting
+- 📈 Passionate about transforming raw data into meaningful insights
+- 💡 Interested in Power BI, SQL, cloud technologies, and business intelligence
+- 🌍 Based in the United Kingdom
+- 🚀 Always learning and building practical data projects
 
-- Cloud-based data projects using AWS
+---
 
-- Star-schema data modelling
+## Skills & Tools
 
-- Process improvement & reporting automation
+### Data Analysis & Programming
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+</p>
 
-# Tools & Technologies
+### Data Visualisation & BI
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/>
+</p>
 
-# Languages & Querying
-SQL | MySQL | T-SQL | Python | R
+### Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+</p>
 
-# Data Visualisation
-Power BI | Excel | Tableau (basic exposure)
+---
 
-# Data Platforms
-AWS (EC2, RDS, S3) | SAP | SQL Server
+## Featured Projects
 
-# Other Tools
-SPSS | Power Query | Git | Jupyter Notebook
+Here are some of the projects featured on my GitHub:
 
-# Education & Certifications
+- **GlobalMart Sales Analysis**  
+  Sales performance analysis exploring product profitability, regional trends, and discount impact.  
+  🔗 https://github.com/balqis91/GlobalMart-Sales-Analysis
 
-MSc Business Computing (Distinction)
-BCS Business Analysis Foundation
-CompTIA Data+
-SQL, Python & Machine Learning Certifications
+- **Shopping Mall Analysis**  
+  Exploratory data analysis project focused on customer and retail insights.  
+  🔗 https://github.com/balqis91/Shopping-Mall-Analysis
 
-# Let’s Connect
+- **TATA Online Analytical Dashboard**  
+  Dashboard project designed to communicate business performance clearly and effectively.  
+  🔗 https://github.com/balqis91/TATA-Online-Analytical-Dashboard
 
-Open to BI / Data Analyst roles (Hybrid / Remote / UK-based)
+- **Sales Dashboard**  
+  Data visualisation project for presenting sales metrics and trends.  
+  🔗 https://github.com/balqis91/Sales-Dashboard
 
-# Ask me about:
+- **Cloud-Based Health Monitoring Dashboard Using Microsoft Power BI**  
+  Dashboard-focused project related to health monitoring and reporting.  
+  🔗 https://github.com/balqis91/Development-of-a-Cloud-Based-Health-Monitoring-Dashboard-Using-Microsoft-Power-BI-
 
-- Power BI dashboard design & DAX
+---
 
-- SQL queries and data modelling
+## Current Focus
 
-- Turning messy datasets into structured insights
+- Advanced SQL and database optimisation
+- Power BI dashboard storytelling
+- Cloud data technologies with AWS
+- Business intelligence and reporting solutions
 
-- KPI reporting & automation
+---
 
-- Healthcare and operational analytics
+## GitHub Stats
 
-- Career transition into data & BI
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=balqis91&show_icons=true&hide_border=true" alt="GitHub Stats" />
+</p>
 
-# Fun fact:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=balqis91" alt="GitHub Streak" />
+</p>
 
-- I enjoy finding patterns in data the same way others enjoy solving puzzles.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balqis91&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
 
-- I built my first BI dashboard before I realised I wanted to specialise in analytics.
+---
 
-- I love turning raw data into visual stories that influence decisions.
+## Connect With Me
 
-- I started in operations and transitioned into data analytics.
+<p align="center">
+  <a href="https://www.linkedin.com/in/balikisu-a-oniyide" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your-email-here">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-- I genuinely enjoy cleaning data (yes, really).
+<p align="center"><strong>Thanks for visiting my profile!</strong></p>
