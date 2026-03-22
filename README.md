@@ -25,11 +25,11 @@
 I am a data professional with experience in data analysis, business intelligence, dashboard development, and database management.  
 I enjoy working with real-world datasets, identifying trends, and building visual reports that support evidence-based decision-making.
 
-- 📊 Skilled in data analysis, dashboard creation, and reporting
-- 📈 Passionate about transforming raw data into meaningful insights
-- 💡 Interested in Power BI, SQL, cloud technologies, and business intelligence
-- 🌍 Based in the United Kingdom
-- 🚀 Always learning and building practical data projects
+-  Skilled in data analysis, dashboard creation, and reporting
+-  Passionate about transforming raw data into meaningful insights
+-  Interested in Power BI, SQL, cloud technologies, and business intelligence
+-  Based in the United Kingdom
+-  Always learning and building practical data projects
 
 ---
 
@@ -70,23 +70,23 @@ Here are some of the projects featured on my GitHub:
 
 - **GlobalMart Sales Analysis**  
   Sales performance analysis exploring product profitability, regional trends, and discount impact.  
-  🔗 https://github.com/balqis91/GlobalMart-Sales-Analysis
+   https://github.com/balqis91/GlobalMart-Sales-Analysis
 
 - **Shopping Mall Analysis**  
   Exploratory data analysis project focused on customer and retail insights.  
-  🔗 https://github.com/balqis91/Shopping-Mall-Analysis
+   https://github.com/balqis91/Shopping-Mall-Analysis
 
 - **TATA Online Analytical Dashboard**  
   Dashboard project designed to communicate business performance clearly and effectively.  
-  🔗 https://github.com/balqis91/TATA-Online-Analytical-Dashboard
+   https://github.com/balqis91/TATA-Online-Analytical-Dashboard
 
 - **Sales Dashboard**  
   Data visualisation project for presenting sales metrics and trends.  
-  🔗 https://github.com/balqis91/Sales-Dashboard
+   https://github.com/balqis91/Sales-Dashboard
 
 - **Cloud-Based Health Monitoring Dashboard Using Microsoft Power BI**  
   Dashboard-focused project related to health monitoring and reporting.  
-  🔗 https://github.com/balqis91/Development-of-a-Cloud-Based-Health-Monitoring-Dashboard-Using-Microsoft-Power-BI-
+   https://github.com/balqis91/Development-of-a-Cloud-Based-Health-Monitoring-Dashboard-Using-Microsoft-Power-BI-
 
 ---
 
