@@ -102,7 +102,7 @@ Here are some of the projects featured on my GitHub:
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/Balqis91
+  <img src="https://ghchart.rshah.org/balqis91
 " alt="GitHub Contribution Chart" />
 </p>
 
