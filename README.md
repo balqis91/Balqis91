@@ -108,11 +108,6 @@ Here are some of the projects featured on my GitHub:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=balqis91" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balqis91&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
 ---
 
 ## Connect With Me
