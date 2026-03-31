@@ -102,7 +102,8 @@ Here are some of the projects featured on my GitHub:
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=balqis91&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://ghchart.rshah.org/Username
+" alt="GitHub Contribution Chart" />
 </p>
 
 <p align="center">
