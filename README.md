@@ -108,7 +108,6 @@ Here are some of the projects featured on my GitHub:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=balqis91" alt="GitHub Streak" />
 </p>
----
 
 ## Connect With Me
 
